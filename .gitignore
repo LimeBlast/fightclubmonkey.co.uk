@@ -10,6 +10,9 @@
 # Ignore c9 config
 /.c9
 
+# Ignore Codio config
+/.codio
+
 # Ignore the build directory
 /build
 

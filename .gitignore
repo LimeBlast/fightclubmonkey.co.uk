@@ -7,6 +7,9 @@
 # Ignore bundler config
 /.bundle
 
+# Ignore c9 config
+/.c9
+
 # Ignore the build directory
 /build
 

@@ -74,6 +74,7 @@ end
 
 activate :deploy do |deploy|
 
+  # https://github.com/karlfreeman/middleman-deploy/wiki/How-to-store-passwords-some-place-other-than-in-config.rb
   file = File.open(".ftp_password", "r")
     password = file.read
   file.close

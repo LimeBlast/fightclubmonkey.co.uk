@@ -25,3 +25,6 @@
 
 # Ignore RubyMine project
 .idea
+
+# Ignore FTP password
+.ftp_password

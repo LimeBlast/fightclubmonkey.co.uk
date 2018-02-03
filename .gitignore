@@ -28,3 +28,6 @@
 
 # Ignore FTP password
 .ftp_password
+
+# Gemlock
+Gemfile.lock

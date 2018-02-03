@@ -6,3 +6,5 @@ gem "middleman", "~>3.3.3"
 
 # Live-reloading plugin
 gem "middleman-livereload", "~> 3.4.6"
+
+gem "middleman-gh-pages", "~> 0.3.1"

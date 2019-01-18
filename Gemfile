@@ -1,10 +1,11 @@
+# frozen_string_literal: true
+
 # If you have OpenSSL installed, we recommend updating
 # the following line to use "https"
 source 'http://rubygems.org'
+ruby RUBY_VERSION
 
 gem "middleman", "~>3.3.3"
 
 # Live-reloading plugin
 gem "middleman-livereload", "~> 3.4.6"
-
-gem "middleman-gh-pages", "~> 0.3.1"
